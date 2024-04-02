@@ -1,0 +1,29 @@
+{
+  "name": "oranj",
+  "version": "1.0.2",
+  "description": "Oranjinals by Oranj",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kluless13/oranjinals.git"
+  },
+  "bin": {
+    "oranj": "node index.js"
+  },
+  "keywords": [
+    "ordinals"
+  ],
+  "author": "kluless",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/kluless13/oranjinals/issues"
+  },
+  "homepage": "https://github.com/kluless13/oranjinals#readme",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  }
+}
