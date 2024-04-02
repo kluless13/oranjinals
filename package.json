@@ -11,7 +11,7 @@
     "url": "git+https://github.com/kluless13/oranjinals.git"
   },
   "bin": {
-    "oranj": "node index.js"
+    "oranj": "./index.js"
   },
   "keywords": [
     "ordinals"
